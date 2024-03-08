@@ -109,9 +109,9 @@ if(isset($_POST['btn_debit'])) {
   //Port to connect smtp
   $mail->Port = "465";
   //Set gmail username
-  $mail->Username = "muhammaduisa1122@gmail.com";
+  $mail->Username = "email---------------";
   //Set gmail password
-  $mail->Password = "pwkaqwlsqysftxat";
+  $mail->Password = "password-----------------------";
   //Email subject
   $mail->Subject = $subject;
   //Set sender email
